@@ -1,2 +1,2 @@
-This is a testing facitlites
+This is a testing facility
 Test 2
